@@ -1,0 +1,8 @@
+# Configuracao local com credenciais
+/src/main/resources/application.properties
+
+# Arquivos gerados pelo Maven
+/target/
+
+# Arquivos temporarios
+*.log
